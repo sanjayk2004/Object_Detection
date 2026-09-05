@@ -156,5 +156,5 @@ Included in this repository is [`Custom_Object_Detection_Interview_Study_Guide.p
 ## 👤 Author
 
 **Sanjay K**  
-- GitHub: [@sanjayk2004](https://github.com/sanjayk2004)  
-  
+- GitHub: [@sanjayk2004](https://github.com/sanjayk2004)
+- Streamlit: https://objectdetection-ni7o3umvyzsydzqyblusdd.streamlit.app/  
