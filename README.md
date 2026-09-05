@@ -157,4 +157,4 @@ Included in this repository is [`Custom_Object_Detection_Interview_Study_Guide.p
 
 **Sanjay K**  
 - GitHub: [@sanjayk2004](https://github.com/sanjayk2004)  
-- Email: sanjaykrishnantvm2004@gmail.com
+  
