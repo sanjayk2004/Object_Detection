@@ -1,0 +1,31 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+
+# Large Datasets & Archives (Exceeds GitHub limits)
+dataset_sources/
+*.zip
+*.tar.gz
+
+# Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Large Video Outputs (>100MB exceeds GitHub push limits)
+outputs/videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Temporary Files & Logs
+*.log
+*.tmp
+temp/
+.system_generated/
+.claude/
+agent/
